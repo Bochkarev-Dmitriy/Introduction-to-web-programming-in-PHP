@@ -1,5 +1,5 @@
 # Introduction-to-web-programming-in-PHP
-Интереснst задачкb по php для начинающих
+Интересные задачки по php для начинающих
 
 Содержимое файла index.php
 Задача 
